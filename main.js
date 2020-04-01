@@ -1,5 +1,5 @@
 function main(){
-    nbOccurencesTests();
+    console.log(dechiffrementViginere(chiffrementViginere("ATTAQUEZ ASTERIX", 314), 314));
 }
 
 main();
